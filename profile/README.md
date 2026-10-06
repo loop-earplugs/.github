@@ -33,7 +33,7 @@
 
 ## Incidents
 
-16. Report a suspected security incident or actively exploited vulnerability to IT immediately. NIS2 and the CRA require reporting to authorities within 24 hours, so every hour counts.
+16. Report a suspected security incident or actively exploited vulnerability to IT and the legal team (DPO) immediately. NIS2 and the CRA require reporting to authorities within 24 hours, so every hour counts.
 
 ## Repo housekeeping
 
